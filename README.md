@@ -32,9 +32,9 @@
 | /bookmark/:id | DELETE | delete the item with the matching id | |
 
 ## Model
-Meals{  
+bookmark{  
     id: Object,  
-    title: string,
-    url: string
+    title: string,  
+    url: string  
 }
 
